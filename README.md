@@ -1,22 +1,33 @@
+![Header](./assets/github-header-image.png)
 
-## 🌐 Mis redes sociales:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/piensasencillo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-iencinella/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iencinella1990) 
+<!-->
+1- Presentarme
+2- Objetivos
+3- Tecnologías con las que trabajo
+4- Productos destacados
+5- Mi espacio en las redes (facebook, instagram, linkedin) y página personal
+6- Recursos a compartir
+<-->
+Estudio programación y empecé a desarrollar soluciones desde el 2018 (aunque mi primer producto lo lancé en 2023).
 
-# 💻 Las tecnologías que más domino:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Siempre pienso cuál es la forma más simple de solucionar un problema. Muchas veces es difícil. Otras veces no se consigue 🫤. Pero intento de que sea simple para el usuario poder usar las herramientas que ofrezco.
 
-# 📊 Estadísitcas mías en GitHub:
+> Actualmente uso las siguientes tecnologías en mi día a día:
+> [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cs,dotnet,git,astro,react)](https://skillicons.dev)
+>
+> Estoy estudiando estas tecnologías para futuros proyectos:
+> [![My Skills](https://skillicons.dev/icons?i=py,androidstudio,cloudflare)](https://skillicons.dev)
+
+Actualmente estoy manteniendo y mejorando el siguiente proyecto:
+
+## 📊 Mis estadísticas en Github
 ![](https://github-readme-stats.vercel.app/api?username=iiencinella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iiencinella&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iiencinella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=iiencinella&icon=2&color=4)](https://visitcount.itsvg.in)
+Mi idea es poder crear soluciones que solucionen un problema en concreto en mi ciudad natal (Paraná, Entre Ríos, Argentina) para luego poder llevarlo a otras ciudades.
 
-  ## 💰 Si te gustan mis proyectos, puedes ayudarme con un donativo
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@iiencinella) 
+Te dejo mis redes para que puedas contactarte conmigo:
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/piensasencillo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-iencinella/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iencinella1990) 
+

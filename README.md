@@ -1,13 +1,5 @@
 ![Header](./assets/github-header-image.png)
 
-<!-->
-1- Presentarme
-2- Objetivos
-3- Tecnologías con las que trabajo
-4- Productos destacados
-5- Mi espacio en las redes (facebook, instagram, linkedin) y página personal
-6- Recursos a compartir
-<-->
 Estudio programación y empecé a desarrollar soluciones desde el 2018 (aunque mi primer producto lo lancé en 2023).
 
 Siempre pienso cuál es la forma más simple de solucionar un problema. Muchas veces es difícil. Otras veces no se consigue 🫤. Pero intento de que sea simple para el usuario poder usar las herramientas que ofrezco.
